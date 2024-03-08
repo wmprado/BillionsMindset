@@ -1,7 +1,5 @@
 # BillionsMindset Applet for Linux Mint
 
-# BillionsMindset Applet
-
 ![BillionsMindset Logo](icon.png)
 
 ## Description
