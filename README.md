@@ -8,9 +8,14 @@ Welcome to the BillionsMindset Applet! This applet is designed to provide you wi
 
 The phrase that represents the spirit of this applet is: "O dinheiro vem até mim em quantidades cada vez maiores, de diversas fontes e continuas bases, e comigo fica para construção da minha riqueza." which translates to "Money comes to me in increasing amounts, from various sources and continuous streams, and stays with me for the construction of my wealth."
 
+![BillionsMindset Logo](BillionsMindset.png)
+
+
 ## Usage
 
 Simply click on the applet to receive a random quote that will inspire and motivate you. The applet displays the quote and author, allowing you to copy it to your clipboard or save it to a text file on your desktop.
+
+![BillionsMindset Logo](descartes.png)
 
 ## Important Notice
 
