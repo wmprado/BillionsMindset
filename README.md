@@ -2,7 +2,7 @@
 
 # BillionsMindset Applet
 
-![BillionsMindset Logo](.local/share/cinnamon/applets/BillionsMindset@Prado/icon.png)
+![BillionsMindset Logo](icon.png)
 
 ## Description
 
