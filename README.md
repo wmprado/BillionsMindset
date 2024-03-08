@@ -13,6 +13,8 @@ The phrase that represents the spirit of this applet is: "O dinheiro vem até mi
 
 ## Usage
 
+https://www.pling.com/p/2135979/
+
 Simply click on the applet to receive a random quote that will inspire and motivate you. The applet displays the quote and author, allowing you to copy it to your clipboard or save it to a text file on your desktop.
 
 ![BillionsMindset Logo](descartes.png)
